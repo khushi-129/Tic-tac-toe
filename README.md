@@ -13,3 +13,6 @@ The objective is to get three of your marks in a row (horizontally, vertically, 
 - Input validation
 - Detects win, lose, and draw conditions
 
+## Acknowledgements
+
+This Project was completed as a Final Project for the completion of the Course 'Python Essentials 1' by Cisco Networking Academy.
