@@ -15,4 +15,4 @@ The objective is to get three of your marks in a row (horizontally, vertically, 
 
 ## Acknowledgements
 
-This Project was completed as a Final Project for the completion of the Course 'Python Essentials 1' by Cisco Networking Academy.
+This Project was completed as a Final Project for the Course 'Python Essentials 1' by Cisco Networking Academy.
